@@ -23,5 +23,5 @@ The purpose of this challenge is to create a model that can identify creditworth
 # Summary
 
 * Looking at both model 1 and 2 we see that the results are fairly similar.
-* Model 2 has a better precision and acccuracy if we are focused on '0' as well as better precision for '1'. However, the recall for '1' is better in model '1'
-* I would recommend model 1 due to the fact that it seems to score slightly higher in most categories.
+* Model 2 has a better precision and acccuracy if we are focused on '0' as well as better precision for 1. However, the recall for '1' is better in model '1'
+* I would recommend model 2 due to the fact that it seems to score slightly higher in most categories.
